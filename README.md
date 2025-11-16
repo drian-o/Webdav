@@ -5,3 +5,5 @@ and than you can edit folder passwd (administrator@domainwebsite.com):x:1890:189
 dont forget change again folder shadow create md5 hash sample (administrator@domainwebsite.com:($6$AlkjasdS$7fbzVm4f3fwZuaxIiXkKQ.QR56p7zm3musBpE22H3Xk8PSAxGowcLFmtm2bKAK0nqUuDiVfvQGM7Dh.qCE5/U0):1890::::::
 
 The ( ) sign is adjusted to the domain you want to install WebDAV on.
+
+another folder passwd ($2y$10$8gMMaiWWwaAg8A8mhl0VeOXwpJyf0xF//wzW/S/T/VvAoXlwokTka)
